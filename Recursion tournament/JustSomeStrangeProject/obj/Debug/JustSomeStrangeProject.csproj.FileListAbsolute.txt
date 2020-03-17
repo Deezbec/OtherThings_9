@@ -1,0 +1,6 @@
+D:\user\!Kirill\ООП\Recursion tournament\JustSomeStrangeProject\bin\Debug\JustSomeStrangeProject.exe.config
+D:\user\!Kirill\ООП\Recursion tournament\JustSomeStrangeProject\bin\Debug\JustSomeStrangeProject.exe
+D:\user\!Kirill\ООП\Recursion tournament\JustSomeStrangeProject\bin\Debug\JustSomeStrangeProject.pdb
+D:\user\!Kirill\ООП\Recursion tournament\JustSomeStrangeProject\obj\Debug\JustSomeStrangeProject.csprojAssemblyReference.cache
+D:\user\!Kirill\ООП\Recursion tournament\JustSomeStrangeProject\obj\Debug\JustSomeStrangeProject.exe
+D:\user\!Kirill\ООП\Recursion tournament\JustSomeStrangeProject\obj\Debug\JustSomeStrangeProject.pdb

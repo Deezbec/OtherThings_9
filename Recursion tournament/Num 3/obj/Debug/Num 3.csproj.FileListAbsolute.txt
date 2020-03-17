@@ -1,0 +1,5 @@
+D:\user\!Kirill\ООП\Recursion tournament\Num 3\bin\Debug\Num 3.exe.config
+D:\user\!Kirill\ООП\Recursion tournament\Num 3\bin\Debug\Num 3.exe
+D:\user\!Kirill\ООП\Recursion tournament\Num 3\bin\Debug\Num 3.pdb
+D:\user\!Kirill\ООП\Recursion tournament\Num 3\obj\Debug\Num 3.exe
+D:\user\!Kirill\ООП\Recursion tournament\Num 3\obj\Debug\Num 3.pdb

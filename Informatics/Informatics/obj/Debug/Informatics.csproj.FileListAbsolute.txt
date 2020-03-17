@@ -1,0 +1,6 @@
+D:\user\!Kirill\ООП\Informatics\Informatics\bin\Debug\Informatics.exe.config
+D:\user\!Kirill\ООП\Informatics\Informatics\bin\Debug\Informatics.exe
+D:\user\!Kirill\ООП\Informatics\Informatics\bin\Debug\Informatics.pdb
+D:\user\!Kirill\ООП\Informatics\Informatics\obj\Debug\Informatics.csprojAssemblyReference.cache
+D:\user\!Kirill\ООП\Informatics\Informatics\obj\Debug\Informatics.exe
+D:\user\!Kirill\ООП\Informatics\Informatics\obj\Debug\Informatics.pdb

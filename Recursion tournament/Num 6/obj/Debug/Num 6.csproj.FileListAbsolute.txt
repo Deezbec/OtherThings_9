@@ -1,0 +1,6 @@
+D:\user\!Kirill\ООП\Recursion tournament\Num 6\obj\Debug\Num 6.csprojAssemblyReference.cache
+D:\user\!Kirill\ООП\Recursion tournament\Num 6\bin\Debug\Num 6.exe.config
+D:\user\!Kirill\ООП\Recursion tournament\Num 6\bin\Debug\Num 6.exe
+D:\user\!Kirill\ООП\Recursion tournament\Num 6\bin\Debug\Num 6.pdb
+D:\user\!Kirill\ООП\Recursion tournament\Num 6\obj\Debug\Num 6.exe
+D:\user\!Kirill\ООП\Recursion tournament\Num 6\obj\Debug\Num 6.pdb

@@ -1,0 +1,11 @@
+C:\Users\grege\source\repos\В ожидании учителей\В ожидании учителей\bin\Debug\netcoreapp3.1\В ожидании учителей.exe
+C:\Users\grege\source\repos\В ожидании учителей\В ожидании учителей\bin\Debug\netcoreapp3.1\В ожидании учителей.deps.json
+C:\Users\grege\source\repos\В ожидании учителей\В ожидании учителей\bin\Debug\netcoreapp3.1\В ожидании учителей.runtimeconfig.json
+C:\Users\grege\source\repos\В ожидании учителей\В ожидании учителей\bin\Debug\netcoreapp3.1\В ожидании учителей.runtimeconfig.dev.json
+C:\Users\grege\source\repos\В ожидании учителей\В ожидании учителей\bin\Debug\netcoreapp3.1\В ожидании учителей.dll
+C:\Users\grege\source\repos\В ожидании учителей\В ожидании учителей\bin\Debug\netcoreapp3.1\В ожидании учителей.pdb
+C:\Users\grege\source\repos\В ожидании учителей\В ожидании учителей\obj\Debug\netcoreapp3.1\В ожидании учителей.csprojAssemblyReference.cache
+C:\Users\grege\source\repos\В ожидании учителей\В ожидании учителей\obj\Debug\netcoreapp3.1\В ожидании учителей.AssemblyInfoInputs.cache
+C:\Users\grege\source\repos\В ожидании учителей\В ожидании учителей\obj\Debug\netcoreapp3.1\В ожидании учителей.AssemblyInfo.cs
+C:\Users\grege\source\repos\В ожидании учителей\В ожидании учителей\obj\Debug\netcoreapp3.1\В ожидании учителей.dll
+C:\Users\grege\source\repos\В ожидании учителей\В ожидании учителей\obj\Debug\netcoreapp3.1\В ожидании учителей.pdb

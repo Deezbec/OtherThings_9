@@ -1,0 +1,6 @@
+D:\user\!Kirill\ООП\Recursion tournament\Recursion tournament\bin\Debug\Recursion tournament.exe.config
+D:\user\!Kirill\ООП\Recursion tournament\Recursion tournament\bin\Debug\Recursion tournament.exe
+D:\user\!Kirill\ООП\Recursion tournament\Recursion tournament\bin\Debug\Recursion tournament.pdb
+D:\user\!Kirill\ООП\Recursion tournament\Recursion tournament\obj\Debug\Recursion tournament.csprojAssemblyReference.cache
+D:\user\!Kirill\ООП\Recursion tournament\Recursion tournament\obj\Debug\Recursion tournament.exe
+D:\user\!Kirill\ООП\Recursion tournament\Recursion tournament\obj\Debug\Recursion tournament.pdb
