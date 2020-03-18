@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\grege\\source\\repos\\В ожидании учителей\\В ожидании учителей\\В ожидании учителей.csproj": {}
+    "C:\\User\\!Kirill\\GitHub\\OtherThings_9\\В ожидании учителей\\В ожидании учителей\\В ожидании учителей.csproj": {}
   },
   "projects": {
-    "C:\\Users\\grege\\source\\repos\\В ожидании учителей\\В ожидании учителей\\В ожидании учителей.csproj": {
+    "C:\\User\\!Kirill\\GitHub\\OtherThings_9\\В ожидании учителей\\В ожидании учителей\\В ожидании учителей.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\grege\\source\\repos\\В ожидании учителей\\В ожидании учителей\\В ожидании учителей.csproj",
+        "projectUniqueName": "C:\\User\\!Kirill\\GitHub\\OtherThings_9\\В ожидании учителей\\В ожидании учителей\\В ожидании учителей.csproj",
         "projectName": "В ожидании учителей",
-        "projectPath": "C:\\Users\\grege\\source\\repos\\В ожидании учителей\\В ожидании учителей\\В ожидании учителей.csproj",
+        "projectPath": "C:\\User\\!Kirill\\GitHub\\OtherThings_9\\В ожидании учителей\\В ожидании учителей\\В ожидании учителей.csproj",
         "packagesPath": "C:\\Users\\grege\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\grege\\source\\repos\\В ожидании учителей\\В ожидании учителей\\obj\\",
+        "outputPath": "C:\\User\\!Kirill\\GitHub\\OtherThings_9\\В ожидании учителей\\В ожидании учителей\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\grege\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

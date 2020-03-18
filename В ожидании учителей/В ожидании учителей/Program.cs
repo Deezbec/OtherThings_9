@@ -53,6 +53,10 @@ namespace В_ожидании_учителей
         static void Main(string[] args)
         {
             Third();
+            Console.WriteLine("Кирилл лох");
+            Console.WriteLine("Кирилл лох");
+            Console.WriteLine("Кирилл лох");
+            Console.WriteLine("Кирилл лох");
         }
     }
 }
