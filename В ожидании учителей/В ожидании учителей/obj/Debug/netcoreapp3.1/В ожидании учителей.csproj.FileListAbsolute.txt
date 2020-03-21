@@ -9,3 +9,16 @@ C:\Users\grege\source\repos\В ожидании учителей\В ожидан
 C:\Users\grege\source\repos\В ожидании учителей\В ожидании учителей\obj\Debug\netcoreapp3.1\В ожидании учителей.AssemblyInfo.cs
 C:\Users\grege\source\repos\В ожидании учителей\В ожидании учителей\obj\Debug\netcoreapp3.1\В ожидании учителей.dll
 C:\Users\grege\source\repos\В ожидании учителей\В ожидании учителей\obj\Debug\netcoreapp3.1\В ожидании учителей.pdb
+C:\User\!Kirill\GitHub\OtherThings_9\В ожидании учителей\В ожидании учителей\bin\Debug\netcoreapp3.1\В ожидании учителей.exe
+C:\User\!Kirill\GitHub\OtherThings_9\В ожидании учителей\В ожидании учителей\bin\Debug\netcoreapp3.1\В ожидании учителей.deps.json
+C:\User\!Kirill\GitHub\OtherThings_9\В ожидании учителей\В ожидании учителей\bin\Debug\netcoreapp3.1\В ожидании учителей.runtimeconfig.json
+C:\User\!Kirill\GitHub\OtherThings_9\В ожидании учителей\В ожидании учителей\bin\Debug\netcoreapp3.1\В ожидании учителей.runtimeconfig.dev.json
+C:\User\!Kirill\GitHub\OtherThings_9\В ожидании учителей\В ожидании учителей\bin\Debug\netcoreapp3.1\В ожидании учителей.dll
+C:\User\!Kirill\GitHub\OtherThings_9\В ожидании учителей\В ожидании учителей\bin\Debug\netcoreapp3.1\В ожидании учителей.pdb
+C:\User\!Kirill\GitHub\OtherThings_9\В ожидании учителей\В ожидании учителей\obj\Debug\netcoreapp3.1\В ожидании учителей.csprojAssemblyReference.cache
+C:\User\!Kirill\GitHub\OtherThings_9\В ожидании учителей\В ожидании учителей\obj\Debug\netcoreapp3.1\В ожидании учителей.csproj.CoreCompileInputs.cache
+C:\User\!Kirill\GitHub\OtherThings_9\В ожидании учителей\В ожидании учителей\obj\Debug\netcoreapp3.1\В ожидании учителей.AssemblyInfoInputs.cache
+C:\User\!Kirill\GitHub\OtherThings_9\В ожидании учителей\В ожидании учителей\obj\Debug\netcoreapp3.1\В ожидании учителей.AssemblyInfo.cs
+C:\User\!Kirill\GitHub\OtherThings_9\В ожидании учителей\В ожидании учителей\obj\Debug\netcoreapp3.1\В ожидании учителей.dll
+C:\User\!Kirill\GitHub\OtherThings_9\В ожидании учителей\В ожидании учителей\obj\Debug\netcoreapp3.1\В ожидании учителей.pdb
+C:\User\!Kirill\GitHub\OtherThings_9\В ожидании учителей\В ожидании учителей\obj\Debug\netcoreapp3.1\В ожидании учителей.genruntimeconfig.cache
